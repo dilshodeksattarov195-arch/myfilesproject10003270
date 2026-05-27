@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricspalidate",
+        "uuid": 9911370,
+        "checksum": "ymiw8i"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
